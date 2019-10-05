@@ -1,0 +1,347 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Lato', sans-serif;
+}
+ul{
+    font-size: 0;
+}
+.container{
+    margin: 0 auto;
+    max-width: 100%;
+    width: 1100px;
+}
+.city_weather_first li{
+    list-style-type: none;
+    display: inline-block;
+}
+.Lisabon {
+    width:50%;
+    border: 3px solid white;
+    background-color: #3399CC;
+    text-align: center;
+    padding: 20px 40px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    border-right-width: 1px;
+}
+.Paris {
+    width: 24%;
+    border: 3px solid white;
+    background-color: #33CCCC;
+    text-align: center;
+    padding: 20px 40px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+   
+    border-right-width: 1px;
+}
+.Belgrade{
+    width: 24%;
+    border: 3px solid white;
+    background-color:  #996699;
+    text-align: center;
+    padding: 20px 40px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+.weather_forecast{
+    background-color:#3399CC;
+    border: 10px solid #2B81AC;
+}
+.wi-day-sunny{
+    color: white;
+    margin-top: 5px;
+    opacity: 0.8;
+margin-left: 5px;
+font-size: 13px;
+}
+.Gradus_Lisabon{
+    opacity: 0.8;
+    font-size: 13px;
+}
+.zoom{
+    font-size: 13px;
+    padding-bottom: 2px;
+}
+.france{
+    font-size: 13px;
+    padding-bottom: 4px;
+}
+.Gradus_Paris{
+    opacity: 0.8;
+    font-size: 13px;
+}
+.wi-night-rain-mix{
+    margin-top: 3px;
+    opacity: 0.8;
+    font-size: 13px;
+    margin-left: 5px;
+    
+}
+.serbia{
+    font-size: 13px;
+    padding-bottom: 5px;
+}
+.Gradus_Serbia{
+    font-size: 13px;
+    padding-bottom: 4px;
+opacity: 0.8;
+}
+.wi-day-cloudy{
+    margin-left: 5px;
+    opacity: 0.8;
+    font-size: 13px;
+}
+.city_weather_second{
+    list-style-type: none;
+    display: inline-block;
+}
+.second li{
+    display: inline-block;
+    list-style-type: none;
+}
+.moscow{
+    width:25%;
+    border: 3px solid white;
+    background-color:  #996699;
+    text-align: center;
+    padding: 20px 40px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    background-color: #C24747;
+    border-right-width: 1px;
+    border-top-width: 1px;
+    
+}
+.telaviv{
+    width:25%;
+    border: 3px solid white;
+    background-color:  #996699;
+    text-align: center;
+    padding: 20px 40px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    background-color: #E2674A;
+    border-right-width: 1px;
+    border-top-width: 1px;
+    
+    
+    
+}
+.cair{
+    width:24%;
+    border: 3px solid white;
+    background-color:  #996699;
+    text-align: center;
+    padding: 20px 40px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    background-color: #FFCC66;
+    border-right-width: 1px;
+    border-top-width: 1px;
+   
+    
+    
+   
+   
+}
+.york{
+    width:24%;
+    border: 3px solid white;
+    background-color:  #996699;
+    text-align: center;
+    padding: 20px 40px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    background-color: #99CC99;
+    border-top-width: 1px;
+   
+    
+    
+    
+}
+.russia{
+    font-size: 13px;
+    padding-bottom: 4px;
+    
+}
+.neznayu{
+    font-size: 13px;
+    padding-bottom: 4px;
+}
+.ir228{
+    font-size: 13px;
+    padding-bottom: 4px;
+}
+.Gradus_neznayu{
+    font-size: 13px;
+
+opacity: 0.8;
+}
+.nyou{
+    font-size: 13px;
+
+opacity: 0.8;
+}
+.bigcity{
+    font-size: 13px;
+    padding-bottom: 4px;
+
+}
+.Gradus_rashka{
+    font-size: 13px;
+
+opacity: 0.8;
+}
+.wi-day-cloudy-high{
+    opacity: 0.8;
+    font-size: 13px;
+    margin-left: 5px;
+}
+.wi-hot{
+    opacity: 0.8;
+    font-size: 13px;
+    margin-left: 5px;
+}
+.wi-day-sleet{
+    opacity: 0.8;
+    font-size: 13px;
+    margin-left: 5px;
+}
+.wi-day-sleet-storm{
+    opacity: 0.8;
+    font-size: 13px;
+    margin-left: 5px;
+
+}
+.NewDelhi{
+    width:25%;
+    border: 3px solid white;
+    background-color:  #669999;
+    text-align: center;
+    padding: 20px 40px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    background-color: #FFCC66;
+    border-right-width: 1px;
+    border-top-width: 1px;
+    
+    
+}
+.SanFrancisco{
+    width:49%;
+    border: 3px solid white;
+    background-color:  #996699;
+    text-align: center;
+    padding: 20px 40px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    background-color: #CC6699;
+    border-right-width: 1px;
+    border-top-width: 1px;
+}
+.Tokyo{
+    width:24%;
+    border: 3px solid white;
+    background-color:  #996699;
+    text-align: center;
+    padding: 20px 40px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    background-color: #339966;
+    
+    border-top-width: 1px;
+}
+.delhi{
+    font-size: 13px;
+    padding-bottom: 4px;
+    
+}
+.san{
+    font-size: 13px;
+    padding-bottom: 4px;
+}
+.japan{
+    font-size: 13px;
+    padding-bottom: 4px;
+}
+.Gradus_nd{
+    font-size: 13px;
+
+opacity: 0.8;
+}
+.Gradus_francisko{
+    font-size: 13px;
+
+opacity: 0.8;
+}
+.Gradus_tokyo{
+    font-size: 13px;
+
+    opacity: 0.8;
+}
+.wi-day-rain-wind{
+    opacity: 0.8;
+    font-size: 13px;
+    margin-left: 5px;
+}
+.wi-day-sunny-overcast{
+    opacity: 0.8;
+    font-size: 13px;
+    margin-left: 5px;
+}
+.wi-night-clear{
+    opacity: 0.8;
+    font-size: 13px;
+    margin-left: 5px;
+}
+.Sydney{
+    width:98%;
+    border: 3px solid white;
+    background-color:  #996699;
+    text-align: center;
+    padding: 20px 40px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    background-color: #666699;
+    
+    border-top-width: 1px;
+}
+.sid{
+    font-size: 13px;
+    padding-bottom: 4px;
+}
+.Gradus_Australia{
+    font-size: 13px;
+
+    opacity: 0.8;
+}
+.wi-night-partly-cloudy{
+    opacity: 0.8;
+    font-size: 14px;
+    margin-left: 5px;
+}
+.weathercss{
+ color:white;
+ padding-top: 30px;
+ padding-bottom: 30px;
+}
+.wi-hot{
+    color: white;
+    font-size:20px;
+    opacity: 1;
+}
+.last{
+    color:white;
+ padding-top: 15px;
+ padding-bottom: 70px;
+}
+#test{
+    opacity: 0.8;
+    font-size: 13px;
+    margin-left: 5px;
+}
